@@ -1,0 +1,23 @@
+{
+  "name": "teamwork-master",
+  "version": "1.0.0",
+  "description": "Teamwork is an internal social network for employees of an organization. The goal of this",
+  "main": "application is to facilitate more interaction between colleagues and promote team bonding.",
+  "scripts": {
+    "test": "Eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidiems/Teamwork.git"
+  },
+  "author": "vidiems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidiems/Teamwork/issues"
+  },
+  "homepage": "https://github.com/vidiems/Teamwork#readme",
+  "dependencies": {
+    "cloudinary": "^1.17.0",
+    "eslint": "^6.7.0"
+  }
+}
